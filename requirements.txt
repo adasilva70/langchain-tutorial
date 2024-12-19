@@ -27,3 +27,5 @@ pandas
 matplotlib
 wikipedia
 google-search-results
+langchain-community
+pypdf
